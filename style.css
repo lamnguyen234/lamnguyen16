@@ -1,0 +1,28 @@
+.ha{
+    display: table;
+    margin: 0 auto;
+    padding: 20px;
+    text-align : center ;
+    border: 1px solid red;
+    width: 222px;
+}
+.sy{
+    text-align :center;
+    color: green;
+    background-color: yellow;
+}
+.ttin{
+    background-color: pink;
+    color: red;
+    text-align:center;
+}
+.avatar img{
+    display:none;
+}
+.avatar{
+    width: 100px;
+    ;
+}
+.lam{
+    width: 50px;    height: 100px;
+}
